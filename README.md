@@ -43,7 +43,7 @@ Os dashboards foram dividos em tres principais abas, que refletem as principais 
 - A zomato está presente em todos continentes
 - Cerca de 63% dos restaurantes com mais avaliações fazem entregas
 - 95% dos restaurantes com maior valor médio do prato para 2 pessoas aceitam reservas
-- India possui os restaurantes mais caros mais bem avaliados
+- India possui os restaurantes mais caros e mais bem avaliados
 
 # 6. Conclusões
 A partir da implementação dos dashboards, o CEO da Zomato tem com base em dados, uma gama de informações valiosas para expandir seus negócios e melhorar sua plataforma de marketplace.
