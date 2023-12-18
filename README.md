@@ -2,6 +2,7 @@
 
 # Sobre a ZOMATO
 A Zomato é uma plataforma global de busca de restaurantes e entrega de alimentos, lançada em 2010 e sediada na Índia. Atuando em diversos países ao redor do mundo, a Zomato oferece aos usuários a capacidade de explorar uma vasta gama de restaurantes, seus cardápios, avaliações e classificações. A plataforma facilita a busca por restaurantes, cafés e estabelecimentos de alimentação, além de permitir que os usuários façam pedidos de comida online para entrega em casa. 
+
 Com uma missão centrada na conectividade alimentar, a Zomato valoriza a diversidade culinária e busca oferecer uma experiência gastronômica única para seus usuários. Seus valores incluem a transparência, a inovação e a paixão pela comida, buscando constantemente melhorar a maneira como as pessoas descobrem, compartilham e desfrutam de refeições. A empresa desempenha um papel significativo na transformação digital do setor de alimentos e bebidas, proporcionando uma plataforma conveniente e abrangente para a comunidade gastronômica global.
 
 # 1. Problema de negócio
@@ -19,6 +20,8 @@ plataforma, e para isso, ele precisa que seja feita uma análise nos dados da em
 Foi assumido o modelo de negócio marketplace.
 
 Foi utilizado uma base de dados públicas da plataforma Kaggle através do link:https://www.kaggle.com/datasets/akashram/zomato-restaurants-autoupdated-dataset?resource=download&select=zomato.csv
+
+Foram assumidas as principais visões de negócios: Paises, Cidades, Restaurantes e Culinárias.
 
 # 3. Divisão do dashboard
 
