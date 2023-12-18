@@ -58,7 +58,7 @@ Coletar dados dos clientes.
 
 Implementar modelos preditivos e de recomendações.
 
-# 9. Tecnologias e Ferramentas
+# 9. Tecnologias e Ferramentas utilizadas
 
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
