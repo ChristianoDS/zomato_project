@@ -45,15 +45,20 @@ Os dashboards foram dividos em tres principais abas, que refletem as principais 
 - 95% dos restaurantes com maior valor médio do prato para 2 pessoas aceitam reservas
 - India possui os restaurantes mais caros e mais bem avaliados
 
-# 6. Conclusões
+# 6. O produto final do projeto
+Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet.
+
+O painel pode ser acessado através desse link: [https://project-currycompany.streamlit.app](https://christiano-zomato-project.streamlit.app/)/
+
+# 7. Conclusões
 A partir da implementação dos dashboards, o CEO da Zomato tem com base em dados, uma gama de informações valiosas para expandir seus negócios e melhorar sua plataforma de marketplace.
 
-# 7. Próximos passos
+# 8. Próximos passos
 Coletar dados dos clientes.
 
 Implementar modelos preditivos e de recomendações.
 
-# Tecnologias e Ferramentas
+# 9. Tecnologias e Ferramentas
 
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
