@@ -54,8 +54,10 @@ O painel pode ser acessado através desse link: https://christiano-zomato-projec
 A partir da implementação dos dashboards, o CEO da Zomato tem com base em dados, uma gama de informações valiosas para expandir seus negócios e melhorar sua plataforma de marketplace.
 
 # 8. Próximos passos
-Coletar dados dos clientes./
-Adicionar novas visões de negócios./
+Coletar dados dos clientes.
+
+Adicionar novas visões de negócios.
+
 Implementar modelos preditivos e de recomendações.
 
 # 9. Tecnologias e Ferramentas utilizadas
