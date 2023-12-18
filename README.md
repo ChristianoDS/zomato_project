@@ -48,7 +48,7 @@ Os dashboards foram dividos em tres principais abas, que refletem as principais 
 # 6. O produto final do projeto
 Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet.
 
-O painel pode ser acessado através desse link: [https://project-currycompany.streamlit.app](https://christiano-zomato-project.streamlit.app/)/
+O painel pode ser acessado através desse link: https://christiano-zomato-project.streamlit.app/
 
 # 7. Conclusões
 A partir da implementação dos dashboards, o CEO da Zomato tem com base em dados, uma gama de informações valiosas para expandir seus negócios e melhorar sua plataforma de marketplace.
