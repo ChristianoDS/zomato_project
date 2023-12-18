@@ -23,9 +23,9 @@ Foi utilizado uma base de dados públicas da plataforma Kaggle através do link:
 
 Foram assumidas as principais visões de negócios: Paises, Cidades, Restaurantes e Culinárias.
 
-# 3. Divisão do dashboard
+# 3. Estratégia da solução
 
-Os dashboards foram dividos em tres principais abas:
+Os dashboards foram dividos em tres principais abas, que refletem as principais visões do modelo de negócio da empresa:
 
 🌏 Visão geral
 - Aqui são apresentadas métricas gerais da Zomato, além de um mapa mundi para vizualização dos seus restaurantes parceiros.
