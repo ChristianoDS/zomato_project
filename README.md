@@ -17,6 +17,7 @@ plataforma, e para isso, ele precisa que seja feita uma análise nos dados da em
 # 2. Premissas assumidas 
 
 Foi assumido o modelo de negócio marketplace.
+
 Foi utilizado uma base de dados públicas da plataforma Kaggle através do link:https://www.kaggle.com/datasets/akashram/zomato-restaurants-autoupdated-dataset?resource=download&select=zomato.csv
 
 # 3. Divisão do dashboard
