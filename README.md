@@ -12,7 +12,7 @@ A empresa Zomato é uma marketplace de restaurantes. Ou seja, seu core business 
 O Desafio
 
 O CEO da Zomato também foi recém contratado e precisa entender melhor o negócio para conseguir tomar as melhores decisões estratégicas e alavancar ainda mais a
-plataforma, e para isso, ele precisa que seja feita uma análise nos dados da empresa e que sejam gerados dashboards, a partir dessas análises, para responder às perguntas referentes aos paises e cidades cadastradas, além de informaçções sobre os restaurantes e culinárias abrangentes.
+plataforma, e para isso, ele precisa que seja feita uma análise nos dados da empresa e que sejam gerados dashboards, a partir dessas análises, para responder às perguntas referentes aos paises e cidades cadastradas, além de informações sobre os restaurantes e culinárias abrangentes.
 
 
 # 2. Premissas assumidas 
