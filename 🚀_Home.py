@@ -12,7 +12,7 @@ st.sidebar.image(image, width = 120)
 st.sidebar.markdown("# Zomato: Food Delivery & Dining")
 st.sidebar.markdown("## Never have a bad meal")
 st.sidebar.divider()
-st.sidebar.markdown("##### Powered by Christiano Peres - Comunidade DS")
+st.sidebar.markdown("#### Powered by Christiano Peres")
 # ======================== Estrutura do home ================================
 st.title("Zomato Dashboards")
 
