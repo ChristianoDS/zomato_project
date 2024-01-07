@@ -510,7 +510,7 @@ st.sidebar.download_button(label='Download',
                        file_name='zomato.csv',
                        mime='text/csv')
 st.sidebar.divider()
-st.sidebar.markdown("##### Powered by Christiano Peres - Comunidade DS")
+st.sidebar.markdown("#### Desenvolvido por [Christiano Peres ](https://www.linkedin.com/in/christianods/)")
 
 # =====================================================================
 # Layout no streamlit
