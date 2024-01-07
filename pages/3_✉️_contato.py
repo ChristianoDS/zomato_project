@@ -22,7 +22,7 @@ st.set_page_config(page_title='Contato',page_icon='✉️',layout='wide')
 #----------------- Barra lateral ---------------------------------------------------------------------------------
 #========================================================================================
 # Configurações iniciais
-st.markdown("# 📱✉️ Entre em contato")
+st.markdown("# 🔗 Links de contato: ")
 image_path = "./logo.png"
 image = Image.open(image_path )
 st.sidebar.image(image, width = 120)
@@ -34,12 +34,11 @@ st.sidebar.markdown("##### Powered by Christiano Peres - Comunidade DS")
 # =====================================================================
 # Layout no streamlit
 # =====================================================================
-st.header("Ficou com dúvida ❓❓")
 st.divider()
-st.markdown("#### Portifólio de projetos 🚀: https://christianods.github.io/portifolio_projetos")
-st.markdown("#### Linkedin 🔗: https://www.linkedin.com/in/christianods")
-st.markdown("#### Github 💻: https://github.com/ChristianoDS")
-st.markdown("#### Email ✉️: christianoperes21@gmail.com")
-st.markdown("#### Discord 💬: christianoperes")
+st.markdown("### [🚀 Portifólio de projetos](https://christianods.github.io/portifolio_projetos")
+st.markdown("### [🔗 Linkedin](https://www.linkedin.com/in/christianods")
+st.markdown("### [🐙 GitHub](https://github.com/ChristianoDS")
+st.markdown("### Email ✉️: christianoperes21@gmail.com")
+st.markdown("### Discord 💬: christianoperes")
 st.divider()
           
