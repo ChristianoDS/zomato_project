@@ -35,9 +35,9 @@ st.sidebar.markdown("##### Powered by Christiano Peres - Comunidade DS")
 # Layout no streamlit
 # =====================================================================
 st.divider()
-st.markdown("### [🚀 Portifólio de projetos](https://christianods.github.io/portifolio_projetos")
-st.markdown("### [🔗 Linkedin](https://www.linkedin.com/in/christianods")
-st.markdown("### [🐙 GitHub](https://github.com/ChristianoDS")
+st.markdown("### [🚀 Portifólio de projetos](https://christianods.github.io/portifolio_projetos)")
+st.markdown("### [🔗 Linkedin](https://www.linkedin.com/in/christianods)")
+st.markdown("### [🐙 GitHub](https://github.com/ChristianoDS)")
 st.markdown("### Email ✉️: christianoperes21@gmail.com")
 st.markdown("### Discord 💬: christianoperes")
 st.divider()
