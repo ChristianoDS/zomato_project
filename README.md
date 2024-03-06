@@ -1,3 +1,4 @@
+![image](https://github.com/ChristianoDS/zomato_project/assets/103225340/5eb28f82-4866-43ec-b9ae-3b0885d1fd47)
 # Zomato Food Delivery & Dining  - Uma análise de dados usando Python
 
 # Sobre a ZOMATO
